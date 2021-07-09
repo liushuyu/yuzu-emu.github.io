@@ -168,7 +168,7 @@ In fact, some games like `Yoshi's Crafted World`, `Trials of Mana`, `Minecraft D
     "./BOTW_Vulkan.png| Breath of the Wild (fixed runes in Vulkan)"
 >}}
 
-{{< single-title-imgs
+{{< single-title-imgs-compare
     "The Legend of Zelda: Breath of the Wild (EA Vs. HADES)"
     "./botw-ea.png"
     "./botw-hades.png"
@@ -187,10 +187,14 @@ In fact, some games like `Yoshi's Crafted World`, `Trials of Mana`, `Minecraft D
 
 The broken bloom, causing sand and fog in `Super Mario Odyssey` to render incorrectly, is now fixed!
 
-{{< single-title-imgs
+{{< single-title-imgs-compare
     "Super Mario Odyssey (EA Vs. HADES)"
     "./smo_sand_ea.png"
     "./smo_sand_hades.png"
+>}}
+
+{{< single-title-imgs-compare
+    "Super Mario Odyssey (EA Vs. HADES)"
     "./smo_fog_ea.png"
     "./smo_fog_hades.png"
 >}}
@@ -228,14 +232,14 @@ Various graphical glitches, crashes and general stability issues in `Fire Emblem
     "./P5S_3.png"
 >}}
 
-{{< single-title-imgs
+{{< single-title-imgs-compare
     "Xenoblade Chronicles (EA Vs. HADES)"
     "./xc-ea.jpg"
     "./xc-hades.jpg"
 >}}
 
 `Hollow Knight's` issue with transparent textures has been fixed.
-{{< single-title-imgs
+{{< single-title-imgs-compare
     "Hollow Knight (EA Vs. HADES)"
     "./hollow_knight_ea.png"
     "./hollow_knight_hades.png"
@@ -244,31 +248,31 @@ Various graphical glitches, crashes and general stability issues in `Fire Emblem
 `Kirby Star Allies`, `Mario Kart 8 deluxe`, `Tony Hawk Pro Skater`, `Story of Seasons`, and `Clubhouse` games, were among many other titles that saw graphical glitches fixed.
 `Rune Factory 4` renders perfectly now and `Rune Factory 5` has improved rendering.
 
-{{< single-title-imgs
+{{< single-title-imgs-compare
     "Kirby Star Allies (EA Vs. HADES)"
     "./kirby-ea.jpg"
     "./kirby-hades.jpg"
 >}}
 
-{{< single-title-imgs
+{{< single-title-imgs-compare
     "Mario Kart 8 Deluxe (EA Vs. HADES)"
     "./MK8_EA.png"
     "./MK8_Hades.png"
 >}}
 
-{{< single-title-imgs
+{{< single-title-imgs-compare
     "Tony Hawk Pro Skater (EA Vs. HADES)"
     "./tonyhawk-ea.png"
     "./tonyhawk-hades.png"
 >}}
 
-{{< single-title-imgs
+{{< single-title-imgs-compare
     "Story of Seasons (EA Vs. HADES)"
     "./story-of-seasons_ea.png"
     "./story-of-seasons_hades.png"
 >}}
 
-{{< single-title-imgs
+{{< single-title-imgs-compare
     "Rune Factory 4 (EA Vs. HADES)"
     "./runefactory-ea.jpg"
     "./runefactory-hades.jpg"
@@ -345,3 +349,4 @@ This will assist us in identifying and fixing any potential issues Project Hades
 
 &nbsp;
 {{< article-end >}}
+{{< imgs-compare-include-end >}}
